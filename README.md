@@ -33,6 +33,12 @@ terminal session, when your colleagues and employers are watching.
 This is just a fun sideproject. I will do my best to respond to issues reported via
 the project's github page, but please be well aware that this is not at all well-maintained software.
 
+## Contribution
+
+You are welcome to fork the project and send a pullrequest. Please make sure to adhere to
+[The Developer Certificate of Origin](http://developercertificate.org/) and add a line with
+`Signed-Off-By: Your Name <your@mailaddress.com>`. There is also a github ci workflow checking on this.
+
 ## License
 
 fack is licensed under [The 3-Clause BSD License](https://opensource.org/license/bsd-3-clause).
