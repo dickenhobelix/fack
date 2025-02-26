@@ -1,4 +1,4 @@
-module fack
+module github.com/dickenhobelix/fack
 
 go 1.23.2
 
